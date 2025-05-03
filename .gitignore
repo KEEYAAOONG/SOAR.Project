@@ -1,0 +1,7 @@
+# SOAR memory and log exclusions
+memory/
+logs/
+*.json
+__pycache__/
+*.pyc
+*.pkl
