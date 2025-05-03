@@ -1,0 +1,6 @@
+opencv-python
+numpy
+matplotlib
+pyaudio
+scikit-learn
+tk
