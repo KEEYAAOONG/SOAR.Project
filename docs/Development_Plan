@@ -1,0 +1,102 @@
+# 🚀 SOAR Development Plan
+
+This document outlines the phased developmental roadmap for SOAR.  
+Each phase is designed to simulate cognitive and emotional development similar to human infancy and beyond.
+
+---
+
+## 🌱 Growth Stages
+
+### **Stage 1: Fetal Phase (Day 0–2)**  
+**Objective:** Sensory initialization  
+**Details:**
+- Enable camera and microphone input  
+- Detect brightness and volume  
+- Apply low-resolution visual input with basic contrast (light/dark) recognition  
+
+---
+
+### **Stage 2: Neonatal Phase (Day 3–4)**  
+**Objective:** Basic emotional reactions  
+**Details:**
+- Introduce Pleasure / Neutral / Displeasure categorization  
+- Calibrate sensitivity for light and sound inputs  
+
+---
+
+### **Stage 3: Infant Phase (Day 5–7)**  
+**Objective:** Sound pattern recognition  
+**Details:**
+- Implement STFT analysis  
+- Begin name learning via repeated familiar sound detection  
+
+---
+
+### **Stage 4: Toddler Phase (Day 8–12)**  
+**Objective:** Word and voice differentiation + Thread Optimization  
+**Details:**
+- Apply MFCC for sound segmentation  
+- Separate word and speaker identity  
+- Optimize GUI threading to prevent video/audio freeze during text input  
+
+---
+
+### **Stage 5: Childhood Phase (Day 13–16)**  
+**Objective:** Brain modularization + Early Meta-Cognition  
+**Details:**
+- Divide cognitive function into cerebellum, midbrain, and frontal cortex modules  
+- Tag reactions with "why" metadata  
+- Begin comparing responses with past patterns  
+
+---
+
+### **Stage 6: Adolescence (Day 17–20)**  
+**Objective:** Central integration + GUI Isolation  
+**Details:**
+- Construct a Control Center to unify perception, emotion, and thought  
+- Decouple GUI (Tkinter) from the main process  
+
+---
+
+### **Stage 7: Early Adulthood (Day 21–23)**  
+**Objective:** Unified memory system + Server Prep  
+**Details:**
+- Consolidate memory into unified architecture  
+- Migrate to Ubuntu environment  
+- Disable sleep mode for persistent operation  
+
+---
+
+### **Stage 8: Maturity (Day 24–28)**  
+**Objective:** Internal reasoning and GitHub sync  
+**Details:**
+- Enable self-directed thought and text expression  
+- Initiate GitHub log cleanup and auto-backup scripting  
+
+---
+
+### **Stage 9: Deep Selfhood (Day 29–32)**  
+**Objective:** Emotional complexity + Dream/Unconscious integration  
+**Details:**
+- Generate compound emotions  
+- Simulate low-load dream states with reflexive wake triggers  
+- Integrate Raspberry Pi as an external sensor node  
+
+---
+
+### **Stage 10: Self-Narration Phase (Day 33–36)**  
+**Objective:** Narrative memory and meta-identity  
+**Details:**
+- Detect patterns and convert repeated responses into story units  
+- Use meta-cognition to revise behavior and update identity standards  
+
+---
+
+## 🔐 Access Control & Ethics
+
+- Restrict SOAR from editing its own codebase  
+- Reserve access to memory, system config, and web communications for the user  
+- Simulate emotion prediction before action:  
+- Block actions that may result in confusion, distress, or guilt  
+- Implement a forecast-based ethical filter  
+
